@@ -185,6 +185,6 @@ When drift is detected:
 
 ## 👩‍💻 Author
 
-**Fatima Ammara** — AI/ML Student focused on MLOps & Production ML Systems
+**Ammara Fatima** — AI/ML Student focused on MLOps & Production ML Systems
 
 [GitHub](https://github.com/fatimaammara180-ML)
